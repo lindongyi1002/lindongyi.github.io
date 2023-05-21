@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "cn-China"
-title                    : "Lindongyi / Blog"
+title                    : "Lin Dongyi / Blog"
 title_separator          : "-"
 name                     : &name "Lindongyi"
 description              : &description "多读书，多看报，少吃零食，多睡觉！"
@@ -85,8 +85,8 @@ author:
   bio              : "多读书，多看报，少吃零食，多睡觉！"
   location         : "Beijing-China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "lindongyi1002@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0001-4928-8936"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  stackoverflow    :  "https://stackoverflow.com/users/21933555/lin-dongyi"
+  steam            : "https://steamcommunity.com/id/lindongyi/"
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
